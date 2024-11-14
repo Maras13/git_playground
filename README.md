@@ -41,7 +41,7 @@ Each exercise has a fun theme and clear goal to keep you on track. Plus, we thre
    **Goal**: Keep your remote repository up-to-date with your latest changes.
 
 9. **Create and Switch to a New Branch** 🌿  
-   Start a new branch called `feature-branch` with `git checkout -b feature-branch`.  
+   Start a new branch called `feature-branch` with `git switch -c feature-branch`.  
    **Goal**: Discover the magic of branches and avoid breaking your main codebase!
 
 10. **Make a Pull Request (PR)** 🔄  
