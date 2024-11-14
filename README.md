@@ -1,4 +1,4 @@
-Welcome to GitHub Playground 🛠️🐙
+ # Welcome to GitHub Playground 🛠️🐙
 
 This is your go-to space to experiment, learn, and maybe have a little fun with GitHub. Whether you're a coding newbie or just brushing up on the basics, these exercises will guide you through the essentials of GitHub, one task at a time. 🎢
 
