@@ -1,0 +1,155 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f9;
+  color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Header */
+header {
+  background: linear-gradient(90deg, #6a11cb, #2575fc);
+  color: white;
+  padding: 40px 20px;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 15px;
+}
+
+header p {
+  font-size: 1.1em;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+/* Section */
+section {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section h2 {
+  font-size: 2em;
+  margin-bottom: 30px;
+  color: #4a4a4a;
+}
+
+section h3 {
+  font-size: 1.7em;
+  color: #3b5998;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+section p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+/* Highlight Goals */
+strong {
+  color: #ff7f50;
+  font-weight: bold;
+}
+
+p em {
+  color: #8a2be2;
+}
+
+/* Link Styling */
+a {
+  color: #2575fc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6a11cb;
+  text-decoration: underline;
+}
+
+/* Hover Effects */
+section h3:hover {
+  color: #ff7f50;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+
+section p:hover {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+/* Footer */
+footer {
+  background-color: #2575fc;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+footer p {
+  font-size: 1.2em;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 2em;
+  }
+
+  header p, section p {
+    font-size: 1em;
+  }
+
+  section {
+    padding: 10px;
+  }
+
+  section h2 {
+    font-size: 1.8em;
+  }
+
+  section h3 {
+    font-size: 1.4em;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 10px;
+  }
+
+  header h1 {
+    font-size: 1.7em;
+  }
+
+  section h2 {
+    font-size: 1.5em;
+  }
+
+  section h3 {
+    font-size: 1.2em;
+  }
+}
