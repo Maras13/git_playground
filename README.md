@@ -40,7 +40,7 @@ Each exercise has a fun theme and clear goal to keep you on track. Plus, we thre
 
 7. **Make Your First Commit** ✍️  
 
-   Add some local changes, then stage and commit them with `git add` and `git commit`.  
+   Add some local changes, then stage and commit them with `git add <file_name>` and `git commit -m "message"`.  
    **Goal**: Lock in your edits and start tracking changes like a version control wizard.
 
 8. **Push Your Changes to GitHub** 🚀  
