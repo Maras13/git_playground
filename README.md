@@ -88,6 +88,10 @@ Each exercise has a fun theme and clear goal to keep you on track. Plus, we thre
     Give [GitHub Playground](https://github.com/Maras13/git_playground) a star, and `Watch` it to stay updated on changes.  
     **Goal**: Show some love to your favorite projects and follow their progress.
 
+17. **Adding some changes for testing**
+
+here are some asked changes
+
 ---
 
 Now you’re ready to take on GitHub like a pro. Each exercise is a small step toward mastering version control, collaboration, and the amazing open-source community on GitHub. So dive in, and may your commit messages be clear and your merge conflicts be few!
