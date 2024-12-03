@@ -1,6 +1,6 @@
 # 🧙‍♂️ Advanced Git Wizardry: Exercises to Master Version Control 🛠️
 
-Congratulations, Git master-in-training! 🎓 You're about to embark on a journey through the labyrinth of advanced Git techniques. Let’s push (pun intended) your skills to the next level! 🚀
+Congratulations, Git master-in-training! 🎓 You're about to embark on a journey through the labyrinth of advanced Git techniques. Let’s push your skills to the next level! 🚀
 
 ---
 
